@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """Write a method that determines if all the boxes can be opened"""
+
+
 def canUnlockAll(boxes):
     """function to check if key exists"""
     if type(boxes) is not list:
@@ -15,4 +17,3 @@ def canUnlockAll(boxes):
         if boxes_checked is False:
             return boxes_checked
     return True
-     
