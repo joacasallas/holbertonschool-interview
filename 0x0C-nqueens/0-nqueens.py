@@ -1,4 +1,4 @@
- #!/usr/bin/python3
+#!/usr/bin/python3
 '''NQueens'''
 from sys import argv
 
